@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Book
 subtitle: ''
 img_path: "/images/1585075736.png"
 layout: page
