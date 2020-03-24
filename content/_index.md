@@ -17,7 +17,7 @@ sections:
     should be able to answer.  \nDo you, your family and friends have what it takes
     to pass the British citizenship test?"
   actions:
-  - label: Learn More
+  - label: Take the Test
     url: "/about"
 layout: home
 menu:
