@@ -1,22 +1,27 @@
 ---
 title: Home
 sections:
-  - type: intro
-    template: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
+- type: intro
+  template: intro
+  title: Intro
+  section_id: intro
+  component: intro.html
+  content: "You may think you know everything about being British, but would the government
+    agree? Could you pass the British citizenship test?  \nThis informative and entertaining
+    book investigates the controversial exam that anyone wishing to become a British
+    citizen must pass. Some questions are easy, others are bizarre and some are downright
+    impossible.\n\n* What type of food is traditionally eaten on Christmas Day?\n*
+    How might you stop young people playing tricks on you at Halloween?\n* What is
+    the role of the Council of the European Union?\n\nThis is the ultimate quiz book
+    for the nation with hundreds of practice questions that every British citizen
+    should be able to answer.  \nDo you, your family and friends have what it takes
+    to pass the British citizenship test?"
+  actions:
+  - label: Learn More
+    url: "/about"
+layout: home
 menu:
   main:
-    name: Home
     weight: 1
-layout: home
+
 ---
