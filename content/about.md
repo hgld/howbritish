@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: ''
-img_path: ''
+img_path: "/images/1585075736.png"
 layout: page
 menu:
   main:
