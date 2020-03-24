@@ -1,20 +1,13 @@
 ---
-title: About Me
+title: About
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: ''
+layout: page
 menu:
   main:
-    name: About
     weight: 2
-layout: page
+
 ---
+This website has been produced by Red Squirrel Publishing to support the launch of [**How British Are You?: Questions from the Citizenship Test**](https://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2FHow-British-are-You-Citizenship%2Fdp%2F0955215978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1222430685%26sr%3D8-1&tag=howbritish-21&linkCode=ur2&camp=1634&creative=6738).
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+If you have something to say then please [**contact us**](http://www.redsquirrelbooks.com), we’d love to hear from you.
