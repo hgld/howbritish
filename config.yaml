@@ -2,11 +2,11 @@
 title: How British Are You?
 baseURL: "/"
 params:
-  layout_style: grid
-  palette: green
+  layout_style: list
+  palette: blue
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: How British Are You?
+    logo_img: ''
     has_nav: true
   footer:
     content: "&copy; All rights reserved."
