@@ -10,7 +10,7 @@ sections:
     agree? Could you pass the British citizenship test?
   actions:
   - label: Buy the Book
-    url: "/#"
+    url: https://www.amazon.co.uk/gp/product/0955215978?ie=UTF8&tag=howbritish-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0955215978
   - label: Take the Test
     url: "/about"
 layout: home
