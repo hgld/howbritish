@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2009-01-09T06:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
@@ -16,5 +15,3 @@ What does the British citizenship test say about regional identity? The concept 
 [https://www.youtube.com/watch?v=4d0mfg9ea4E](https://www.youtube.com/watch?v=4d0mfg9ea4E "https://www.youtube.com/watch?v=4d0mfg9ea4E")
 
 Unfortunately these quirky yet charming questions were removed by civil servants in a later review of the test. Questions about regional differences in schooling and devolved administration now remain.
-
-__
