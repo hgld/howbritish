@@ -10,5 +10,3 @@ title = "How British Are You interview with Janice Long on BBC West Midlands 2"
 
 +++
 Henry Dillon, author of _How British Are You?_, speaks with Janice Long on BBC West Midlands.
-
-testing 123456
