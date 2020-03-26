@@ -16,6 +16,6 @@ And where better to test our Britishness than a traditional British boozer?
 
 But how would the regulars in your local hostelry fair? Would your drinking mates pass the test with flying colours? Find out by downloading the quiz pack. Send us the results from your pub and we’ll report on the final results.
 
-Click [**here**](https://howbritish.wpengine.com/GreatBritishCitizenshipPubQuiz.pdf) to download the [**Great British Citizenship Pub Quiz (PDF) 360K**](https://howbritish.wpengine.com/GreatBritishCitizenshipPubQuiz.pdf)
+Click [**here**](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/GreatBritishCitizenshipPubQuiz.pdf) to download the [**Great British Citizenship Pub Quiz (PDF) 360K**](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/GreatBritishCitizenshipPubQuiz.pdf)
 
 [**Photo: flickr.com/kake_pugh**](https://www.flickr.com/photos/kake_pugh/) / [**CC BY-NC-SA 2.0**](https://creativecommons.org/licenses/by-nc-sa/2.0/)
