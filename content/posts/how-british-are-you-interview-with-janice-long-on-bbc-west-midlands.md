@@ -12,5 +12,3 @@ title = "How British Are You interview with Janice Long on BBC West Midlands 2"
 Henry Dillon, author of _How British Are You?_, speaks with Janice Long on BBC West Midlands.
 
 testing 123456
-
-![https://technofaq.org/wp-content/uploads/2019/01/The-Wolf-of-Upwork-620x350.png](https://technofaq.org/wp-content/uploads/2019/01/The-Wolf-of-Upwork-620x350.png)
