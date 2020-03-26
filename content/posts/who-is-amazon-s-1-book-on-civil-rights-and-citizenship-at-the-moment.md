@@ -11,4 +11,4 @@ title = "Who is Amazon’s #1 book on Civil Rights and Citizenship at the moment
 +++
 Yesterday, while browsing Amazon.co.uk, I couldn’t help myself and check the rank of _How British Are You?_. And look! Wow, we’re number 1 in the Civil Rights and Citizenship category. OK, so it’s a niche category – but we’re up there.
 
-![](https://www.flickr.com/photos/31021510@N07/3119826389/)
+![](/images/Amazon Bestseller.png)
