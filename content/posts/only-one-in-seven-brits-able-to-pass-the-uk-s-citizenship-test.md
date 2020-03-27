@@ -16,7 +16,7 @@ According to [**our survey**](http://www.redsquirrelbooks.com/index.php/site/det
 
 Earlier this week, the government proposed to increase the difficulty of the test and add extra topics on history and politics. However should this be happening when so few native Brits are able to pass the test already?
 
-So how do we fix this? The citizenship test should be something that anyone who has lived here is able to pass. Anything but this is making a mockery of the process. If you’ve got a suggestion for a question that every good citizen should know, then [**share it with us by adding a comment to this post**](https://howbritish.wpengine.com/2009/08/04/one-in-seven-brits-pass-the-uks-citizenship-test/#respond).
+So how do we fix this? The citizenship test should be something that anyone who has lived here is able to pass. Anything but this is making a mockery of the process.
 
 _Update: Corrected the headline to match the stats. Tip of the hat to_ [**_Next Left_**](http://www.nextleft.org/2009/08/on-failing-citizenship-test.html) _for telling us about this._
 

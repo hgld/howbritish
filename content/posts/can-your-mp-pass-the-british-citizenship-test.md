@@ -18,4 +18,4 @@ Some people have suggested that MPs probably wouldn’t be able to pass the test
 >
 > _With only half the questions answered correctly, Mike Gapes MP, the honourable member for Redbridge, had failed the test. If his score-rate remained as low as that in a real test, and if he were an incomer to Britain, he would have been denied citizenship on grounds, presumably, of insufficient engagement with British society. Not good for someone who is meant to represent it._
 
-It would be interesting to get test results from other MPs. So if you plan to meet with your MP in the coming weeks, [**take a copy of our test**](https://howbritish.wpengine.com/GreatBritishCitizenshipPubQuiz.pdf) and see report back their score.
+It would be interesting to get test results from other MPs. So if you plan to meet with your MP in the coming weeks, [**take a copy of our test**](/pdf/GreatBritishCitizenshipPubQuiz.pdf) and see report back their score.

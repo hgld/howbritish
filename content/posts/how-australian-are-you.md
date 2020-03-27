@@ -26,7 +26,7 @@ This raises the first thorny issue:
 
 > _Should naturalised citizens be expected to pass a test if that test can not be passed by a native citizen?_
 
-I don’t think this is reasonable. There are no classes of citizenship and all citizens are equal. In my earlier posts this seems to the [**consensus from reader comments**](https://howbritish.wpengine.com/2009/08/04/one-in-seven-brits-pass-the-uks-citizenship-test/#comments). Whether you are a citizen by birthright or naturalisation, this is a test that you shouldn’t have to study for. This doesn’t mean making the citizenship tests easier, but I think there is a more tacit knowledge of a country that could also be used. I’ve received a number of [**great suggestions**](https://howbritish.wpengine.com/2009/08/04/one-in-seven-brits-pass-the-uks-citizenship-test/#comment-160) from readers for the British citizenship test.
+I don’t think this is reasonable. There are no classes of citizenship and all citizens are equal. In my earlier posts this seems to the consensus from reader comments. Whether you are a citizen by birthright or naturalisation, this is a test that you shouldn’t have to study for. This doesn’t mean making the citizenship tests easier, but I think there is a more tacit knowledge of a country that could also be used. 
 
 Isn’t it odd that the new Australian citizenship test doesn’t require you to know the words to the national anthem? Nothing unites a country more than singing. Surely this is a more emotional way of bonding with your country men than knowing opal is the national gemstone?
 

@@ -24,6 +24,6 @@ However it’s always straightforward either. For example, someone born in North
 
 There’s a tiny mention about these different regions in the British citizenship test and is something that should probably be expanded upon.
 
-![](https://howbritish.wpengine.com/wp-content/uploads/2009/08/537px-British_Isles_Euler_diagram.svg.png)
+![](/images/537px-British_Isles_Euler_diagram.svg.png)
 
 Diagram Credit: [**Wikipedia**](https://en.wikipedia.org/wiki/File:British_Isles_Euler_diagram.svg)
