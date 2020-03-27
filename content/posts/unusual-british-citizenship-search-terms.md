@@ -8,6 +8,8 @@ thumb_img_path = ""
 title = "Unusual British citizenship search terms"
 
 +++
+By Henry
+
 It’s been an incredible last few weeks. There’s been an enormous amount of interest in _How British Are You?_ since the government announced the new points-for-passports policy. Traffic to this site has [**hockey sticked**](https://en.wikipedia.org/wiki/Hockey_stick) – although I fully expect this to calm down as search trends move on.
 
 It’s also been fascinating to work out how people discovered this website. However I’m completely baffled as to why I appear in the results for this particular search.
