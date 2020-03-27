@@ -5,7 +5,7 @@ excerpt = ""
 layout = "post"
 subtitle = ""
 thumb_img_path = ""
-title = "British history is now ‘at the heart of the citizenship test"
+title = "British history is now 'at the heart of the citizenship test'"
 
 +++
 by Henry
