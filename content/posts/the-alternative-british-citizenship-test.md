@@ -10,6 +10,8 @@ title = "The Alternative British Citizenship Test"
 +++
 ![](/images/Sleeping Dog.png)
 
+By Henry
+
 Simon from Norfolk has written his own [**alternative version of the British citizenship test**](http://www.merebagatelle.com/index.php/2009/08/the-alternative-british-citizenship-test/). It’s a mix of popular culture and humour – which is exactly what is missing from the official test. Here are some of my favourites:
 
 > _1) Did you see the game last night? (Pick one)  
