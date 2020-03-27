@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "David Sedaris: Preparing for the British citizenship test"
 
 +++
-by Henry
+
 
 I was listening to a great programme called “[**Meet David Sedaris**](https://www.bbc.co.uk/programmes/b00rp3fg)” on Radio 4 on Sunday. David reads from his extensive collection of comedy essays, giving his unique perspective on life in London.
 

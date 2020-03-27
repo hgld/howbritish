@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "How Australian are you?"
 
 +++
-by Henry
+
 
 Australia has finally unveiled a revised citizenship test. Would-be citizens taking the old test were expected to know facts and trivia. This was ridiculed by the media, especially cricket related questions about Sir Don Bradman. The focus of the new test is on understanding the rights, responsibilities and privileges that come with becoming an Australian citizen.
 
