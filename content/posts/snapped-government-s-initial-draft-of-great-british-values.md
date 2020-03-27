@@ -10,6 +10,8 @@ title = "Snapped: Government’s initial draft of Great British Values"
 +++
 ![](/images/Long Lens.png)
 
+By Henry
+
 Guardian reader [**Sirorfeo**](http://www.guardian.co.uk/users/sirorfeo) provides some interesting revelations on the initial draft of Great British Values (as photographed through a transparent folder on Downing Street).
 
 > _THE THIRTEEN BRITISH COMMANDMENTS \[… would ‘Common Values’ sound better? G.B.\]_
