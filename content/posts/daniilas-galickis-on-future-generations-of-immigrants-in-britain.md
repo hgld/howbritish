@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Daniilas Galickis on future generations of immigrants in Britain"
 
 +++
-![https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png =x300)
+![https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png)
 
 We were recently contacted by photographer, Daniilas Galickis. Dan was studying BA Photography at Bradford College and wanted to focus his Major Project on the issue of immigration, and it’s actual effect, on the future generations. The next generation being the dreams and hopes of people who came to this land.
 
