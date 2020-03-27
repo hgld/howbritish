@@ -8,6 +8,8 @@ thumb_img_path = ""
 title = "Can your MP pass the British citizenship test?"
 
 +++
+By Henry
+
 There’s been lots of discussion on [**blogs**](https://jackabouttown.blogspot.com/2009/08/on-failing-citizenship-test-i-was-not.html) and [**Twitter**](https://search.twitter.com/search?q=%23citizenshiprevoked) this week about the citizenship test. Many British born citizens have reported how they’ve failed the test and questioned the test’s usefulness. After all, if this is a test about British life then surely anyone born in the UK should instinctively be able to pass with flying colours.
 
 Some people have suggested that MPs probably wouldn’t be able to pass the test. Here is what happened when journalist [**Daniel Adam**](http://www.uel.ac.uk/risingeast/archive04/journalism/adam.htm) quizzed [**Mike Gapes**](http://www.theyworkforyou.com/mp/mike_gapes/ilford_south) (Labour MP for Ilford South) on his knowledge:
