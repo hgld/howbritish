@@ -8,6 +8,8 @@ thumb_img_path = ""
 title = "Gordon Brown to do voluntary work"
 
 +++
+By Henry
+
 ![](/images/Gordon Brown.png)
 
 The BBC reports that Prime Minister Gordon Brown is planning to spend part of his summer break doing voluntary work in his Kirkcaldy and Cowdenbeath. A spokesman said:
