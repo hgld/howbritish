@@ -8,6 +8,8 @@ thumb_img_path = ""
 title = "Is Britishness all about statistics?"
 
 +++
+By Henry
+
 ![](/images/Notebook.jpg)
 
 Photographer [**Marsha Stewart writes about her delight and relief after passing the British citizenship test**](http://prairie.typepad.com/my_weblog/2009/08/bits-and-pieces.html#tpe-action-posted-6a010536295671970c0115715c24da970c). However she’s a bit perplexed about the some of the questions in the test.
