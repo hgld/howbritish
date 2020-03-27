@@ -8,6 +8,8 @@ thumb_img_path = ""
 title = "An introduction to the British citizenship test"
 
 +++
+By Henry
+
 In November 2005, the British government introduced the ‘Life in the United Kingdom’ Test. Its introduction sparked immediate public and media interest as it was labelled a test of “Britishness”. The obvious question raised was, “What is Britishness?”
 
 Of course, the test was never intended to be a test of “Britishness”. Its intention is to assess an applicant’s knowledge of life in the United Kingdom and grasp of English (or Welsh or Scottish Gaelic). But the knowledge of the country which they have to demonstrate is not general knowledge. It is drawn from a government-issued handbook, which they have to study in detail. To pass they must correctly answer at least 18 out of 24 multiple-choice questions.
