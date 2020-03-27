@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "An introduction to the British citizenship test"
 
 +++
-By Henry
+
 
 In November 2005, the British government introduced the ‘Life in the United Kingdom’ Test. Its introduction sparked immediate public and media interest as it was labelled a test of “Britishness”. The obvious question raised was, “What is Britishness?”
 

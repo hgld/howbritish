@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Snapped: Government’s initial draft of Great British Values"
 
 +++
-By Henry
+
 
 ![](/images/Long Lens.png)
 

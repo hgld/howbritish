@@ -14,6 +14,6 @@ I was recently asked on BBC Three Counties whether I think British people were s
 
 What does the British citizenship test say about regional identity? The concept of regional identity is something that was touched on in the British citizenship test. For example some of the peculiar regional New Year’s traditions were included as questions such as _“What might you be asked to bring to a Scottish home in the New Year?”_ the answer _"Coal, bread and whiskey"_... apparently!
 
-[https://www.youtube.com/watch?v=4d0mfg9ea4E](https://www.youtube.com/watch?v=4d0mfg9ea4E "https://www.youtube.com/watch?v=4d0mfg9ea4E")
+{{< youtube 4d0mfg9ea4E >}}
 
 Unfortunately these quirky yet charming questions were removed by civil servants in a later review of the test. Questions about regional differences in schooling and devolved administration now remain.

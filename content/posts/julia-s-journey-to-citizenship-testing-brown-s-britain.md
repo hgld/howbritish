@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Julia’s journey to citizenship, testing Brown’s Britain"
 
 +++
-by Henry
+
 
 There’s a great post over on the [**Labourhome blog**](http://www.labourhome.org/forum/?p=7230) by Julia Svetlichnaja about her observations having taken the British citizenship test.
 

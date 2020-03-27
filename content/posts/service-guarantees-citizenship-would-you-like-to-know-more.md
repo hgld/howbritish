@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Service Guarantees Citizenship: Would you like to know more?"
 
 +++
-By Henry
+
 
 The Gurkhas have had a very raw deal, and I’m surprised by the way the government is dragging its feet on this one. The government claims that if they allowed all veterans to stay then [**Britain would be flooded with 100,00 new Gurkha citizens**](http://www.mirror.co.uk/news/top-stories/2009/05/04/gurkhas-invasion-talk-mad-115875-21330608/). I seriously doubt this. But, even if they all did decide to come to the UK, then they would deserve it anyway.
 
@@ -20,7 +20,7 @@ I completely agree with him. If the government isn’t prepared to make good on 
 
 The sci-fi film _Starship Troopers_ has brilliant propaganda snippets on this very theme – **_Service Guarantees Citizenship: Would you like to know more?_**
 
-[https://www.youtube.com/watch?v=SMTz9nIUkGc](https://www.youtube.com/watch?v=SMTz9nIUkGc "https://www.youtube.com/watch?v=SMTz9nIUkGc")
+{{< youtube SMTz9nIUkGc >}}
 
 A bit of Gurkha background and trivia
 

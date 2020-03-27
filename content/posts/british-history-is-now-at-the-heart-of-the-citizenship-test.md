@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "British history is now 'at the heart of the citizenship test'"
 
 +++
-by Henry
+
 
 Today saw the new version of the Life in the UK test launched by the government. The Life in the UK test has now been revised to include new testable materials covering British history.
 

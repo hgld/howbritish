@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Gordon Brown to do voluntary work"
 
 +++
-By Henry
+
 
 ![](/images/Gordon Brown.png)
 

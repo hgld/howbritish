@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "When is St George’s Day and who really cares?"
 
 +++
-by Henry
+
 
 But according to a [**recent poll**](http://www.onepoll.com/press-archive/England-least-patriotic-country), only one in three English men and women knew the date when St George’s Day is celebrated and more than forty per cent were clueless as to why he is the patron saint.
 

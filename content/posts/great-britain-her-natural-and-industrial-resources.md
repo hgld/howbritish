@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Great Britain. Her natural and industrial resources"
 
 +++
-by Henry
+
 
 ![](/images/Great Britain Map.png)
 

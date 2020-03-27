@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Do you know the difference between England, Britain, Great Britain and the UK?"
 
 +++
-By Henry
+
 
 Something that everyone in the UK should should understand is the [**differences in the UK’s geography**](https://en.wikipedia.org/wiki/British_Isles_(terminology)#At_a_glance). There are some very important distinctions that many foreigners frequently mix up.
 

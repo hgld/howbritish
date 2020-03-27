@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Does Monica Ali Know Enough to Be British?"
 
 +++
-By Henry
+
 
 [**Monica Ali**](https://en.wikipedia.org/wiki/Monica_Ali) writes in [**The Atlantic**](https://www.theatlantic.com/doc/200908/ali-british) about the British citizenship test and how it fails to present a true picture of the real Britain.
 

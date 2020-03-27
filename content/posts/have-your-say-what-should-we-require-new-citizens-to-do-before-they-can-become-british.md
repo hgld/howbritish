@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Have your say: What should we require new citizens to do before they can become British?"
 
 +++
-By Henry
+
 
 ![](/images/British Citizenship.png)
 

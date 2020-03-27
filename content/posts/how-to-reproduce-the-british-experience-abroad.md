@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "How to reproduce the British experience abroad"
 
 +++
-by Henry
+
 
 [**Lisa Coulson’s**](https://anglophilesdigest.blogspot.com/) recent blog post on [**Anglotopia**](http://www.anglotopia.net/anglophilia/anglophile-factoids/dispatches-from-the-north-have-the-expat-experience-without-the-visa/) caught my eye.
 

@@ -30,7 +30,7 @@ I don’t think this is reasonable. There are no classes of citizenship and all 
 
 Isn’t it odd that the new Australian citizenship test doesn’t require you to know the words to the national anthem? Nothing unites a country more than singing. Surely this is a more emotional way of bonding with your country men than knowing opal is the national gemstone?
 
-[https://www.youtube.com/watch?v=vpH6WEtIj1c](https://www.youtube.com/watch?v=vpH6WEtIj1c "https://www.youtube.com/watch?v=vpH6WEtIj1c")
+{{< youtube vpH6WEtIj1c >}}
 
 Understanding the language is a critical part to being able to integrate within Australian life, so it’s disappointing that the classic Australian slang is not tested.
 

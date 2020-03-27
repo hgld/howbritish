@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Daniilas Galickis on future generations of immigrants in Britain"
 
 +++
-By Henry
+
 
 ![https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/Sam Daniilas Galickis.png)
 

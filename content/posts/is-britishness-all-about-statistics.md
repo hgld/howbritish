@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Is Britishness all about statistics?"
 
 +++
-By Henry
+
 
 ![](/images/Notebook.jpg)
 

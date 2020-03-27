@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Only One in Seven Brits able to pass the UK’s Citizenship Test"
 
 +++
-By Henry
+
 
 ![](/images/Union Jack.png)
 

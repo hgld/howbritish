@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "No Union Flag on ID Cards"
 
 +++
-By Henry
+
 
 ![/images/UK ID Card.png](https://app.forestry.io/sites/2mjhkjd4eifk3g/body-media//images/UK ID Card.png)
 

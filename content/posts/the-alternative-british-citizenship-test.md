@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "The Alternative British Citizenship Test"
 
 +++
-By Henry
+
 
 ![](/images/Sleeping Dog.png)
 

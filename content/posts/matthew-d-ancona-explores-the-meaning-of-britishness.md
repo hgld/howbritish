@@ -8,7 +8,7 @@ thumb_img_path = ""
 title = "Matthew d’Ancona explores the meaning of ‘Britishness’"
 
 +++
-By Henry
+
 
 I’m looking forward to Matthew d’Ancona’s radio series on Britishness. He explores whether Britishness is the glue that can hold us all together or just a word that has lost its meaning.
 
