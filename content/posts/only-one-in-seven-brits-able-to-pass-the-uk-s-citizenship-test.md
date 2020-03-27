@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2009-08-04T05:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
@@ -9,6 +8,7 @@ thumb_img_path = ""
 title = "Only One in Seven Brits able to pass the UK’s Citizenship Test"
 
 +++
+![](/images/Union Jack.png)
 
 According to [**our survey**](http://www.redsquirrelbooks.com/index.php/site/detail/polish_score_top_marks_in_britishness_test/), only one in seven Brits are able to pass the government’s British citizenship test. The mock test was completed by 11,118 British people – only 1,585, or 14 per cent, achieved a pass score.
 
