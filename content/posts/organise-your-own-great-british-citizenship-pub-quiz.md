@@ -8,6 +8,8 @@ thumb_img_path = "/images/3553451891_77f9682bd0.jpg"
 title = "Organise your own Great British Citizenship Pub Quiz"
 
 +++
+By Henry
+
 It’s three years this month since the controversial British citizenship test was launched to decide whether those applying for a UK passport have a good enough knowledge of life in this to country to become British.
 
 To mark the ominous anniversary, a new pub quiz version of the controversial test is this week being unveiled.
